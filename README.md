@@ -14,3 +14,4 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Comunicar mis cambios a mis compañeros de trabajo.
 * Creado por el increíble Platzi Team.
 * Incluye ejemplos en windows, linux y mac
+* Disponible para todas las edades.
