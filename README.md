@@ -12,3 +12,4 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Trabajar con colaboradores en un repositorio
 * Hacer Pull request y entregar código nuevo basado en un flujo de trabajo controlado por un DevOp.
 * Comunicar mis cambios a mis compañeros de trabajo.
+* Creado por el increíble Platzi Team.
